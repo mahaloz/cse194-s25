@@ -1,0 +1,4 @@
+title: "My Class Site"
+description: "A simple Jekyll class site with schedule popups."
+markdown: kramdown
+future: true

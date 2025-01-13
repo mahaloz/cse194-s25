@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div id="scheduleContent" class="tab-content active">
+  <h2>Schedule</h2>
+  <p>Hover over a date block, then click for more info.</p>
+
+  <!-- We'll build a grid from all class posts -->
+  <div class="schedule-grid">
+    {% assign class_pages = site.posts | sort: 'date' %}
+    {%- for c in class_pages %}
+        <!-- c.content or c.date or c.url, etc. -->
+        {% capture mmdd %}{{ c.date | date: "%m/%d" }}{% endcapture %}
+
+        <!-- We take the entire class content, which is in Markdown, convert to HTML, remove newlines, & escape single quotes -->
+        {% capture class_html %}
+          {{ c.content | markdownify }}
+        {% endcapture %}
+        {% assign class_html_one_line = class_html | strip_newlines | replace: "'", "&#39;" %}
+        <div class="date-block"
+             data-date="{{ mmdd }}"
+             data-info-html='{{ class_html_one_line }}'>
+          {{ mmdd }}
+        </div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- Another tab content for Announcements -->
+<div id="announcementsContent" class="tab-content">
+  <h2>Announcements</h2>
+  {% include announcements.html %}
+</div>
+

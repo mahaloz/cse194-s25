@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>{{ page.title }} | {{ site.title }}</title>
+
+  <!-- Highlight.js CSS (example) -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/default.min.css" />
+  <!-- Main CSS (optional) -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
+
+</head>
+<body>
+
+  <!-- TAB NAV -->
+  <div class="tab-container">
+    <div class="tab active" id="scheduleTab">Schedule</div>
+    <div class="tab" id="announcementsTab">
+      Announcements
+      <span class="new-badge" id="newBadge" style="display: none;">NEW</span>
+    </div>
+  </div>
+
+  <!-- PAGE CONTENT goes here -->
+  {{ content }}
+
+  <!-- POPUP OVERLAY -->
+  <div class="popup-overlay" id="popupOverlay">
+    <div class="popup-content">
+      <button class="close-btn" id="closeBtn">X</button>
+      <!-- Where the popup's HTML goes -->
+      <div id="popupInfo">Popup content goes here.</div>
+    </div>
+  </div>
+
+  <!-- Scripts (Highlight.js, main JS) -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+  <script>
+    // Initialize highlight.js on page load
+    hljs.highlightAll();
+  </script>
+
+</body>
+</html>
+
