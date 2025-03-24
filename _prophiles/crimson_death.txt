@@ -1,0 +1,58 @@
+---
+layout: prophile
+title: Crimson Death
+author: Anonymous
+---
+
+
+  	(\_/)
+  	(o.o)                 CRIMSON  
+  	(>💀<)                       DEATH 
+
+-------------------------------------------------------------------------------
+
+    Handle: Crimson Death
+    Call him: Robb
+    Past handles: The Sorcerer (before he was a phreak, a pirate handle)
+    Handle origin: AD&D Monster Manual II
+    Date of Birth: February 17,
+    Age at current date: 55 years old
+    Height: Unknown
+    Weight: Unknown
+    Eye color: Brown outlined with green
+    Hair Color: Dark brown
+    Computer in 1986: Apple //e with 10 meg hard drive
+    Sysop/Co-Sysop of: Hell Phrozen Over, Missing Link, Skull Kingdom
+
+Crimson Death, also known as Robb, was a key figure in the phreaking and 
+hacking world of the mid-1980s. He ran "Hell Phrozen Over," a private 
+phreak/hack BBS based in Philadelphia. His journey into the BBS scene started 
+in 1984 when he launched "Spirit World," a public board on an Apple //e with 
+two floppy drives, running GBBS software at 300 baud
+
+Robb got his Apple computer in January 1984. A turning point came when 
+The Videosmith logged onto his board, leading to a lasting friendship. 
+By February 1985, he had started phreaking. When he upgraded with a 10-megabyte
+Sider hard drive, he turned "Hell Phrozen Over" into a private BBS. His 
+phreaking mentor was The Videosmith, and he regularly called well-known boards 
+like the Army BBS, Shadowland, The Missing Link, and The Labyrinth.  
+
+Robb went to public school and was a grade ahead of his peers. Only a few 
+classmates knew about his phreaking. He was skilled in programming, and his BBS
+ran smoothly because of it. He met his girlfriend, The Silver Fox, on Datanet, 
+and many considered her very attractive.  
+
+Though he wasn’t hacking at the time, Robb planned to learn when he had more 
+free time. He was part of "Phreak Klass 2600," which Red Devil took down, 
+leading to a search for a replacement, "Phreak Klass II." He met several major 
+figures in the scene, including The Videosmith, Mark Tabas, TUC, Telenet Bob, 
+The Sprinter, and Dr. Who, who left a strong impression on him.  
+
+Crimson Death also contributed to *Phrack Magazine*, writing several articles. 
+One of his most notable pieces was "RSTS," which explored the RSTS/E operating 
+system. His knowledge and willingness to share information showed his deep 
+commitment to the community.  
+
+Through his BBS, technical skills, and connections in the phreaking world, 
+Crimson Death became a well-respected figure in the digital underground of the 
+1980s.

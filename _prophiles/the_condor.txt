@@ -1,0 +1,95 @@
+---
+layout: prophile
+title: The Condor
+author: Anonymous 
+---
+
+                                                              Kevin Mitnick
+                                                              ~~~~~~~~~~~~~
+Handle: “The Condor”
+
+Other Aliases: “The Darkside Hacker”
+
+Handle Origin: Movie, “Three Days of the Condor”
+
+Date of Birth: August 6, 1963
+
+Current Age: (Deceased) Age 59 - July 16, 2023 
+
+Occupations: Information Technology Consultant
+
+Weight: 4’ 11”
+
+Origins in the Hacking World:
+Kevin Mitnick originated in the hacking world by growing up in the era of 
+emerging technology. He was very curious and would mess around with new and 
+emerging phones and computer technology. He would go on to gather with 
+“phone phreaks” to talk about different landline pranks he used to work on 
+with others growing up. They additionally showed him how to make free calls, 
+change phone numbers, and other activities. 
+
+Arrests/Criminal Activity:
+
+First Arrest:
+Kevin Mitnick got himself into his first trouble with law enforcement when he 
+became one of FBI’s Most Wanted List for hacking into several major 
+corporations. Initially, he hacked into the Digital Equipment Corporation (DEC) 
+through a telephone number to the organization RSTS/E operating system software. 
+He was convicted and charged for copying the organization’s software. For this 
+he was sentenced to 12 months in prison with three years of supervised release 
+afterwards. 
+
+Second Arrest:
+After the end of this time period, he officially became a fugitive by hacking 
+into Pacific Bell voicemail computers. Through a period of around two-and-a-half 
+years, he continued to copy software and tamper with networks of several 
+organizations. On February 15, 1995, he was caught and arrested. He was later 
+charged in 1998 for wired fraud, unauthorized access, and several other crimes. 
+He later pleaded guilty in 1999 to wire and computer fraud, in addition to 
+illegal interception of a wire communication where he was sentenced for a total 
+of 66 months.  
+
+Impact on the Hacking World:
+As a result of the arrest of Kevin Mitnick, there were several actions and 
+movements that took place. There were many that believed it was unlawful and 
+there were more important criminals to look after than for what he was 
+committing. As a result, a movement called “FREE KEVIN” started where people 
+went around with signs to free Kevin Mitnick from prison. There was no true 
+intention, apart from Kevin, to use the information that he stole for his own 
+betterment or to cause harm. This movement caused several parades outside 
+federal courthouses in fifteen different cities. 
+
+As a result of Kevin Mitnick’s arrest, in 1997 Yahoo! was hacked indicating a 
+worm would be released if he was not released by Christmas. 
+
+Hacking Groups:
+Kevin Mitnick was part of the Global Ghost Team; a white hat hackers’ group 
+that help organizations find security holes through Red Team Engagement. 
+
+Personal Organization:
+Kevin Mitnick created an organization named “Mitnick Security” which helped 
+identify and mitigate cybersecurity threats for organizations, enterprises, 
+and governments through his Global Ghost Team. They focused on penetration 
+testing, social engineering testing, and focused on influencing and providing 
+knowledge on cybersecurity to others. 
+
+Writing:
+Kevin later went on to write several books on cybersecurity including, Ghost in 
+the Wires, The Art of Deception, The Art of Invisibility, and The Art of Intrusion. 
+
+Death:
+Kevin Mitnick died on July 26, 2023, at the age of 59 after battling Pancreatic 
+Cancer. 
+
+Sources:
+Kevin Mitnick. Wikipedia The Free Encyclopedia. (n.d.). 
+https://en.wikipedia.org/wiki/Kevin_Mitnick 
+
+Mitnick Security The Global Ghost Team. (n.d.). Kevin Mitnick: 
+The World’s Most Famous Hacker. 
+https://www.mitnicksecurity.com/about-kevin-mitnick-mitnick-security 
+
+Security, M. (2022, May 10). Why did Kevin Mitnick become a Hacker? 
+https://www.mitnicksecurity.com/blog/why-did-kevin-mitnick-become-a-hacker#:~:
+text=Is%20Kevin%20Mitnick%20Still%20Hacking,famous%20Kevin%20Mitnick%20virtual%
+20events.  

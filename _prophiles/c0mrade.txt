@@ -1,0 +1,34 @@
+---
+layout: prophile
+title: c0mrade
+author: Anonymous 
+---
+
+Jonathan James, better known by his online alias "c0mrade," was a young hacker
+who made headlines for his audacious cyber intrusions. Born in 1983, he became
+the first juvenile in U.S. history to be imprisoned for hacking. His story is a
+mix of genius, curiosity, and tragedy, demonstrating both the power of
+technology and the dangers of stepping over ethical boundaries.
+
+From a young age, Jonathan James was endlessly fascinated by technology.
+He acquired abilities as a teenager that would enable him to access some of the most tightly sealed systems on Earth. He did it for the challenge, a pleasure that finally brought him into great danger; he did not hack for money. He had already crept into networks run by NASA and the U.S. Department of Defense by the time he was fifteen.
+
+Breaking into NASA's systems was one of his most notable exploits; he obtained source code controlling vital life-support operations for the International Space Station.
+ NASA reported that his breach caused over
+$1.7 million in damages and forced them to take their systems offline for
+several weeks. For a teenager working from his bedroom, this was an
+unbelievable feat but it also put him on the radar of law enforcement.
+  .----.   @   @
+    / .-"-.`.  \v/
+    | | '\ \ \_/ )
+  ,-_\ `--'  ( ( 
+  (.-"'--"-'`-')
+   | Jonathan |
+   |  James   |
+   |__________|
+James was arrested by authorities in 2000, and was sentenced to six months in juvenile detention. Also, he was barred from using computers for recreational purposes. His case exposed gaping vulnerabilities in government networks, prompting agencies to reevaluate their cybersecurity policies.
+James’s hacking legacy is well-covered by several sources. Wikipedia contains a detailed history of his life, and Wired has clocked his NASA- and Defense Department–level intrusions in investigative stories. Interviews with him were conducted for PBS Frontline about his motivations and the ways he hacked.
+There is no place to pause; his conclusions remain to this day. And his case marked a watershed moment in cybercrime, resulting in tighter regulations and more government surveillance of young hackers. It also revealed gaping security vulnerabilities in government entities, leading them to fortify their defenses. James’s story continues to fascinate in hacker culture, inspiring documentaries, books and ethics debates in hacking.
+The tragic turn in Jonathan James’s life came in 2008, when he became embroiled in a cybercrime investigation that he firmly maintained he had nothing to do with. Terrified of being wrongfully prosecuted, he committed suicide at the age of 24. His death marked a tragic close to a life of promise, and his story endures as a cautionary tale of the thin line between exploration and a crime.
+
+“I was just kind of looking around, playing with stuff.”

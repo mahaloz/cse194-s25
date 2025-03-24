@@ -1,0 +1,53 @@
+---
+layout: prophile
+title: Gary McKinnon
+author: Abdulaziz
+---
+
+			+====================================+
+			|       Hacker Pro-Phile:            |
+			|         Gary McKinnon ==           |
+			|  Created and Written by Abdulaziz  |
+			|         Done on March 1, 2025      |
+			+====================================+
+
+
+
+Welcome to the Hacker Pro-Phile. Here, we explore the lives of important hackers and see what they did and how it changed things. This time, we focus on the famous British hacker:
+
+Handle: Solo  
+Real Name: Gary McKinnon  
+Date of Birth: February 10, 1966  
+Nationality: British  
+Known For: "The biggest military computer hack ever"
+
+How it All Started: Gary got interested in computers when he was a teenager. His love for UFOs and conspiracy stories pushed him to dig into secret government information. So, between 2001 and 2002, he hacked into U.S. military and NASA systems.
+
+How He Hacked: Gary used simple tricks, like taking advantage of weak passwords and default settings. He wrote a Perl script to find computers that were not protected. Once he got in, he left messages showing safety problems and even deleted important files, causing some shutdowns.
+
+Impact on History/Technology/Art: What Gary did showed big security gaps in the U.S. military, which led to better cybersecurity measures. His story started discussions about mental health (since he was later diagnosed with Asperger's syndrome), laws around extradition, and hacking for social causes. His actions also led to documentaries and media stories, making "hacktivist" a popular term.
+
++------------------------------------+
+|          ASCII DIAGRAM             |
+|                                    |
+|         [Solo's Computer]          |
+|               |                    |
+|         +-----------+              |
+|         |  Hacked   |              |
+|         |  U.S.     |              |
+|         | Military  |              |
+|         +-----------+              |
+|               |                    |
+|               v                    |
+|         +-----------+              |
+|         |  Hacked   |              |
+|         |  NASA     |              |
+|         +-----------+              |
+|                                    |
++------------------------------------+
+
+What Happened Next: Gary could have been sent to the U.S. and faced up to 70 years in prison. But after a lot of people in the UK protested, Home Secretary Theresa May stopped his extradition in 2012.
+
+His Legacy: Gary McKinnon's name is remembered in hacking history as a warning about poor cybersecurity and a reminder of the thin line between activism and cybercrime. His case raised critical questions about international extradition laws and the treatment of hackers.
+
+FUNNY SIDENOTES: "Searching for UFOs in the Pentagon's backyard!", "Solo vs. the U.S. Army — round one!", "Passwords? Try 'password' — it works!"

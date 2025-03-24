@@ -2,3 +2,8 @@ title: "CSE194: Hacker History"
 description: "The Spring 2025 session of CSE194: Hacker History"
 markdown: kramdown
 future: true
+
+collections:
+  prophiles:
+    output: true
+    permalink: /prophiles/:title/

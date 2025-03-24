@@ -1,0 +1,95 @@
+---
+layout: prophile
+title: wintermule
+author: wintermule
+---
+
+
+  33333  33   33 33   33 33   33   33333   33333
+ 33   33 33  333 333 333 33   33  33  33  33  33
+    333  33 3 33 33 3 33 3333333   33333   33333
+ 33   33 333  33 33   33 33   33  33  33  33  33
+  33333  33   33 33   33 33   33 33   33 33   33
+                    wintermute
+ 333333  33   33 33 3 33 33   33 33   33  3333
+   33    33  333 33 3 33 33  333 33   33     33
+   33    33 3 33 33 3 33 33 3 33 3333333  33333
+   33    333  33 33 3 33 333  33 33   33 33  33
+   33    33   33 3333333 33   33 33   33  333333
+
+
+info
+--------------------------------------------------------------------------------
+handle(s)               null, 0xwillow, badca11, wintermute
+handle origins          the socially inept AI from neuromancer
+current age             19
+height                  6'0
+weight                  120 lbs.
+eye color               nice try, FBI
+hair Color              'nother day, NSA
+computer(s)             a very large abacus, you can't pwn it i assure you
+
+
+github          https://github.com/3intermute
+youtube         https://www.youtube.com/@summerblind
+soundcloud      https://soundcloud.com/0xwillow
+
+
+past projects
+--------------------------------------------------------------------------------
+VX-Underground Black Mass: Vol. 2 (as 0xwillow)
+++++++++
+pdf: https://drive.google.com/file/d/1-8TlglAU86YAX1WxljZbS08qjEV8BiHv
+paperback: https://www.amazon.com/VX-Underground-Black-Mass-2
+
+ramiel          a proof of concept diskless UEFI bootkit capable of surviving
+                disk wipes and firmware updates. ramiel is also capable of
+                bypassing OVMF’s secure boot implementation.
+                source: https://github.com/3intermute/ramiel
+
+Tmp.0ut: Vol. 3 (as wintermute)
+++++++++
+https://tmpout.sh/3/
+
+rainking        an arm64 Linux proof of concept rootkit capable of silently
+                hooking system calls without modifying sys_call_table,
+                syscall handlers and without using ftrace.
+                source: https://github.com/3intermute/arm64_silent_syscall_hook
+
+hvICE           an implementation of hypervisor enforced code integrity for the
+                Linux kernel using the Xen Hypervisor and libVMI.
+ICEbreaker      a KASLR offset spoofer for libVMI.
+                source: https://github.com/3intermute/hvICE
+
+other
+++++++++
+kvmrk           hijacking KVM on ARM linux for a bluepill style hypervisor
+                rootkit.
+                source: https://github.com/3intermute/kvmrk
+
+arael           improvement of cachekit on cortex a8 processors via
+                TLB splitting
+
+                source not yet released
+
+
+current projects
+--------------------------------------------------------------------------------
++ c-pill rootkit technique, cache based hidden hooks
++ cheap FPV drone jammer, play arbitrary video to headsets
++ stuxnet-like GPU firmware malware, disables power/heat limits to cook GPUs
+
+
+non-hacking related things i do
+--------------------------------------------------------------------------------
++ making accelerationist breakcore edits
++ learning yugoslav war songs on the harmonica
++ building random things with my boyfriend, we recently built a fake gieger
+counter in the style of the s.t.a.l.k.e.r ones with an old polish flashlight.
+our next project will be a 1/3 scale model of a sidewinder missile !
++ making rant videos
++ making themed playlists for hacking
+
+
+gr33tz layta, pin, intra, dolphin, the vxug peeps, tmp.0ut, alice, and lain
+thanks for helping with my projects ^_^

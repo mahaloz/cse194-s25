@@ -1,0 +1,57 @@
+---
+layout: prophile
+title: Mudge 
+author: Anonymous 
+---
+
+Mudge: The Hacker that warned the world
+Peiter Zatko, better known as Mudge, began as part of an elite hacker think tank
+called L0pht Heavy Industries. This group started as an underground hacker space
+in Boston, MA where members worked to reverse engineer and pentest software and
+hardware with the hope of finding security flaws. However, he differed from most
+black hat hackers of the time. He focused on ethical disclosure, finding the
+flaws and revealing them to make the internet a safer place. The most
+significant of his disclosures was in 1998 to the US Senate. Mudge sat before
+the Senate and gave an alarming warning: l0pht had the knowledge and skills to
+crash the internet in under 30 minutes. It was DANGEROUSLY insecure. 
+
+Instead of using this to wreak on all internet users at that time, they used
+their platform to advocate for improved security and industry standards.
+Many of the changes that they brought on are now fundamental to modern
+cybersecurity.
+
+After l0pth disbanded, Mudge went on to lead DARPA's Cyber Fast Track program,
+which provided funding to small, independent security researchers aiming to
+find and fix vulnerabilities before they could be exploited. In 2020, he became
+Twitter's head of security, quickly becoming a whistleblower and filing a
+complaint of severe security management issues at the company. This revealed
+critical vulnerabilities is Twitter's infrastructure which could lead to leaks
+of user data. 
+
+Today, Mudge remains a prominent voice in cybersecurity. His unwavering
+commitment to technology, and exposing its flaws is truly legendary.
+His impact in cybersecurity can still be seen today
+
+................................................  @@@  @@@@@*  %@@@  ......... 
+................................................  @  @@@@@@@@@@@  @+ ......... 
+................................................ @@ @*       .@@@ :@ ......... 
+................................................ @ @# +@@%  *#  @@ @ ......... 
+................................................ @ @   .*@ .+:= +@ @ ......... 
+................................................ @:@ +@* @--@@@ +@%@ ......... 
+...............      ..            ............. %*:-  = @*     .#@: ......... 
+..............  *@@      @@@@@@@@@  ............ := :#@@ @%-*##   +* ......... 
+..............  @@@@@   @@@@@@@@@@  ............ :#-    *%+   + =@%. ......... 
+..............  @  @@@@@@-      @@  ............. :**..       = -:   ......... 
+..............  @@   @@@+  .:  @@:  ..............  %# =@@@@@   .@ .  ........ 
+..............  @@        .:.  @@  ...............   @*      -@@ @=@     ..... 
+............... :@@   :::::   *@* ...........          @@@@@@@@  @+@@@#      . 
+...............  =@@@ ...    @@@  .......      @@@@@@@   .  .  .@@  @@@@@@*    
+............... :@ ..     -@@@#  ......   +@@@@@@@@@ @ @@@@@   @@     .@@@@@@@ 
+............... +=  *@@@@@@@@.   ......  @@@@@@     @ @@   @@ @@  .=:.    =@@@ 
+............... +@@@@@@@@@+    .......  #@@        #@ @  @@  :@@  :-::..     + 
+...............              ......... .@@   ....  @ @-  @%  @@   :. .::.::. : 
+.....................................  @@  .:.... +@ @ * @@ @@   .::....:::.-: 
+.....................................  @@  .::..  @ @* * @@:@   . :- .:::.: :  
+..................................... @@  ::.:.. =@ @  = @ @@  ..:-.::.: :::.: 
+..................................... @@  .::... @@@@ .= @#@  ::--:.:..:--.-:: 
+                                                                               

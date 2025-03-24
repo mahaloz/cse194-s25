@@ -1,0 +1,92 @@
+---
+layout: prophile
+title: Dave Starr 
+author: Moonlight
+---
+
+                          Volume One, Issue 1, Phile #1 of 1
+
+    
+                                 ==Phrack Pro-Phile 7==
+
+
+                             Created and Written by Moonlight
+
+
+                                 Done on March 2, 2025
+
+
+         Welcome, fellow hackers, to another exciting edition of Phrack Pro-Phile! Grab your favorite energy drink, plug in your vintage TRS-80, and let's dive into the wild world of hacking through the one and only Dave Starr. You know, the guy who basically wrote the book on how to be both a hacker and a legend—minus the boring, "I'm a hacker" tagline. Let’s go!
+
+
+                                     Dave Starr
+                                     ~~~~ ~~~~~
+
+
+Handle: Dave Starr  
+Call him: Dave, the dude who knows how to break anything  
+Past Handles: Micronet Phantom (because who doesn’t love a little mystery?)  
+Handle Origin: "Big Brother" was his nod to Orwell’s 1984, because really, who *doesn’t* want to be a surveillance pro at 18?
+Date of Birth: May 6, 1962 (That’s right, the ‘60s. Totally vintage hacker vibes)  
+Current Age: 24  
+Height: 6' 0" (aka tall enough to see over all your firewalls)  
+Weight: 170 lbs. (but probably a bit lighter from all the hacking-induced adrenaline)  
+Eye Color: Brown (because we all know hackers have brown eyes, right?)  
+Hair Color: Light Brown (Honestly, who cares? We’re too busy breaking into systems!)  
+Computers: TRS-80, Apple ][, ][+, ][e (Look, he didn’t need a fancy machine to become a hacker. He was the machine)  
+Sysop/Co-Sysop of: Starcom Network (The cool kid’s BBS)
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - 
+
+
+Okay, so let’s talk about Dave Starr. This guy didn’t just break systems for fun—though that *was* fun. He broke them because, well, the systems deserved it. From the get-go, Dave was like, “Why should phones be the only thing Is that secure? Let's make everything a little more interesting.” And so, he became the phreaking *king* of telecomputing. (That's what we call "coolness" in the hacker world.)
+
+
+—---- *pinging the mainframe like a boss* ​​
+
+
+Now, Dave’s first big claim to fame came with *The Source*—and no, it’s not a movie. It was an infamous system that gave him plenty of opportunities to show off his skills. He teamed up with some of the best, like Susan Thunder and Roscoe DuPran. You know, the usual crew. While most people were busy playing Pong, these folks were busy writing the hacking rules everyone would follow decades later. No big deal.
+
+
+—---- *console command: "hack_the_planet"*
+
+
+And then there was the *Starcom Network*. Have you ever heard of it? If not, you’ve probably lived under a rock for 30 years. It was THE place for hackers and phreakers. Dave wasn’t just a sysop; he was like the cool librarian who handed you the secret map to the hacker's treasure. No biggie. But seriously, Starcom was the ultimate hangout for those who wanted to talk shop, share war stories, and maybe troll a few systems while they were at it.
+
+
+—---- *Encryption: level 9000*
+
+
+Dave’s big breakthrough wasn’t just breaking into systems (he was pretty good at that too). No, he was all about voice phreaking, which sounds like something out of a sci-fi movie, right? (And hey, with a name like “Big Brother,” he was *always* ahead of the curve in telecom hacking.) He was practically the Yoda of phone systems, teaching newbies how to use hacks to get what they wanted (yes, before you ask, this was way before the era of YouTube tutorials).
+
+
+—---- *echo: “phreaking is life”*
+
+
+And even though he could have easily joined any of the well-known hacking groups, Dave wasn’t about labels. He preferred to stay independent and work with whoever was cool enough to not ask him too many questions. He also *really* enjoyed turning what would normally be a straightforward hack into an epic game of psychological chess. Talk about next-level hacking, right?
+
+
+—---- *access granted… to a parallel universe*
+
+
+Dave Starr’s impact on the hacker community is like that of a superhero whose name never made it into a Marvel movie—yet his influence is felt wherever systems are being tinkered with. His legacy lives on, not just in the stories of his wild hacks, but in the hacker culture that grew out of his work. To this day, if you meet an old-school hacker, chances are they’ve either heard of Dave or were secretly mentored by him.
+
+
+—---- *#neverforget Dave*
+
+
+So there you have it: Dave Starr, the hacker who helped turn telecomputing into an art form, and made hacking cool long before it was mainstream. Take a moment to appreciate this legend, folks. Then go break something— but don’t get caught, okay?
+
+
+—---- .--. 
+     |o_o | 
+     |:_/ | 
+     // \ \ 
+    (|   | ) 
+   /'\_ _/`\ 
+   \___)=(___/ 
+
+Hacking in progress...
+
+*Command: “execute successful hack”*- By M00nlight.

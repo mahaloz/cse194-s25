@@ -1,0 +1,68 @@
+---
+layout: prophile
+title: Captain Crunch
+author: 0urobor0s
+---
+
+00000000000000000000000000000000000000000000000000000000000000000000000000000000
+                          ===  ASU CSE194 ===
+                                Volume 5
+                     Created and Written by 0urobor0s
+                        Done on February 27, 2025
+
+                             Captain Crunch
+                       ~~~~~~~~~~~~~~~~~~~~~~~~~~
+                            ______________
+                           /     ______   \
+                          |     /  /       |
+                   __    /      \__\___     \    __
+                  /  \__/                    \__/  \
+                  |    ________________________    |
+                  /___/         ______         \___\
+                               /  __  |
+                               | |  \_/
+                               | |   _
+                               | |__/ \
+                               \_______|  
+
+       Handle: Captain Crunch
+     Call Them: The Captain
+ Handle Origin: His signature whistle for phreaking came from a box 
+                of Cap'n Crunch
+ Date Of Birth: March 11, 1943
+   Current Age: 82
+        Height: 5'10"
+        Weight: 150lbs
+     Eye Color: blue
+    Hair Color: blonde
+     Computers: PDP-8, numerous Homebrew systems, Apple II
+        Sysops: Frequented the 2600: The Hacker Quarterly BBS
+
+Origins in the Hacking/Phreaking World: John Draper, better known as
+Captain Crunch, began Phreaking when he found out that the whistle
+included in a Cap'n Crunch Cereal box was 2600 hz, the perfect 
+frequency to get a payphone to make an AT&T long distance phone call for
+free. This became an important part of early phreaking, as the users
+often had to pay expensive rates to use this service. However, by phreaking,
+the power was back in the consumers hands. 
+
+Later on, Captain Crunch developed Blue Boxes, devices that allowed 
+phreakers to play whatever tones they needed to get payphones to 
+allow the special calls. These boxes were even used, made, and sold
+by the founders of Apple, Steve Jobs and Steve Wozniak. Some people
+could argue that because of the Captain, the company Apple became what 
+it is today. He was close with both the Steves, and was in a Homebrew 
+Computer Club with them.
+
+Captain Crunch was caught in the 1970's and served several years in
+prison for his exploits. Despite this, he continued his ventures
+into technology and got into CyberSecurity. Eventually, he even 
+gave several talks at DEF CON and HOPE. 
+
+Even though he began his work before modern hacking came to be, his
+influence and attitude on society and bringing the power to the people
+can be seen throughout the modern times. There still exists and attitude
+now that power should be brought back into the hands of the people, 
+and away from the corporations that grow wealthier and wealthier as 
+the common man suffers. Captain Crunch was a legendary 
+hacker, and deserves the respect of the community. 

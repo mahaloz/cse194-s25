@@ -1,0 +1,176 @@
+---
+layout: prophile
+title: The Wacko Cracko Brothers
+author: hUsh.xx
+---
+
+                           ==hUsh.xx profHile XX==
+
+                       Written and Created by hUsh.xx
+
+                                    03/02/25
+
+         This profHile was created to bring info to you, the users, about old 
+or highly important/controversial people.  Today, I bring to you::
+
+                     The W(hack)o Cracko Brothers (TWCB)
+                                 ~~~~~~~~~~
+
+         TWCB was the sysop of Whackoland BBS, took over running TAP magazine,
+also known to have started the group Phreaks Against Geeks as a joke.
+------------------------------------------------------------------------------
+Personal
+~~~~~~~~
+             Handle: The W(hack)o Cracko Brothers (TWCB inc.)
+              Names: Peter and Tim Roberts (Twins)
+       Past handles: Unknown
+      Handle origin: Unknown
+      Date of Birth: 1970 actual date unknown
+          Computers: Commodore(64) (assuming since they were cracking 
+		     software for this device), 
+		     IBM or HP (confirmed some type of UNIX system),
+		     Hayes Modem
+  Sysop/Co-Sysop of: Whackoland
+-------------------------------------------------------------------------------
+	
+	TWCB grew up in Kirkwood, Missouri a small suburb of St. Louis. They 
+got their start as teenagers writing software and exchanging messages on 
+bulletin boards in the early 1980's.
+Some examples of there work are cracked Commodore(64) games:
+Aztec Challenge (https://csdb.dk/release/?id=144385)
+The Pit (https://csdb.dk/release/?id=108705)
+Caesar the Cat https://csdb.dk/release/?id=144328)
+
+	They became quite active in the phreaking/hacking scene as one article 
+noted:
+"If you were a hacker or phreaker in St. Louis in the mid '80s (where Tim and 
+Peter Roberts both lived), you probably knew of them. Even nationally, TWCB 
+were well known."
+ 
+The following is a timeline of TWCB's activity as noted from phrack.org.
+
+Approx. Dec. 1984 (~14 Years old):
+	Peter writes a code hacker for the Hayes modem and tells Tim NOT to 
+use it on Sprint because they trace. However, Tim received a call from Scan 
+Man, sysop of P-80, saying he needs some Sprint codes so Tim did it for him on 
+the 314-342-8900 Sprint extender. But, Tim left it on all night and the next 
+day at 9:00 AM agents from the FBI, and other agencies arrived at TWCB's 
+house.
+They each received probation and 100 hours of county service.
+(edited from  ==Phrack Inc.== Volume One, Issue Three, Phile 10 of 10)
+
+-Interesting Side Note: 
+	There was some suspicion surrounding Scan Man around this time. He 
+later asked another phreaker to get some codes and that person was also 
+investigated!
+
+Dec. 1985 (~15 Years old):
+	The W(hack)o Cracko Brothers Inc. form the group Phreaks Against Geeks 
+on a conference in December of 1985 as a joke about some nonsense that started 
+on the Dartmouth (College) System and is mainly a local feud of phreaks in the 
+Boston area. A follow up group was founded called Phreaks Against Phreaks 
+Against Geeks.
+(Noted this to point out the scope of this community but also it's pettiness)
+(edited from ==Phrack Inc.== Volume One, Issue Three, Phile 10 of 10)
+
+Sometime between 1985 and 1986:
+Whackoland BBS is up and running 300/1200 Baud, and 40 Megs.  
+It has unique features as well as Elite Sections.  
+Call today...  314-256-8220.   
+Note: Only 100 users will be kept so if you are just a beginner please don't 
+bother to call.
+
+	Whackoland was made specifically to look like MS (Metal Shop, a very 
+popular BBS and home of the Phrack Newsletter). TWCB was also going to have a 
+magazine originally called "Whackoland Gazette" but TWCB started hearing about 
+the revival of TAP and how the meetings were not going very well. They called 
+Chesire Catalyst and started working out preliminary details.
+(edited from ==Phrack Inc.== Volume One, Issue Four, Phile #10 of 11
+
+Approx. Mar. 1986 (~16 Years old):
+	TWCB was (allegedly) granted the TAP (Technological Assistance Program) 
+magazine from Chesire Catalyst its last editor after sinking interest. Although 
+comments from the time raise questions about this. Tim stated at one point 
+after a failed meeting that "Cheshire sorta fucked TAP over. I think he was 
+just in it for the money."
+	It also seemed others weren't excited by TWCB reviving the magazine 
+either, at one point they received a threatening call from TUC (employed at a 
+competing mag), who informed them he "would have security people watching TWCB 
+all the time and when they slipped up...*BOOM*".
+(edited from  ==Phrack Inc.== Volume One, Issue Four, Phile #10 of 11)
+
+-Interesting Side Notes: 
+Scan Man was supposed to be a contributor but dropped himself from the TAP 
+Staff.
+The magazines supporting TAP included:
+Mad Mad Magazine/High Times/Bootlegger Magazine/Hacker Magazine
+	TUC was a good friend of Taran King the founder and sysop of Metal Shop 
+also editor of phrack. He is also the creator of the first Pro-Phile that King 
+based the rest of them on. (including this one lol.)
+
+April 8, 1986:
+	TWCB Inc. did not fulfill their promise of having TAP Magazine out by 
+April 7, 1986.  When asked, they estimated that they could have it done in 
+another four days.  This secondary deadline was also not achieved.
+
+"Regardless of the TAP situation, Phrack will remain in publication.  TWCB is
+not very happy about this but, we really don't care." -Knight Lightning
+
+Current Day (adulthood):
+	Both brothers did become highly successful entrepreneurs. Tim founded a 
+venture capital firm, Broadband Investment Group LLP where he eventually came 
+up with a new title for himself: chief visionary officer. Peter graduated from 
+Southwest Missouri State University and started a locally based (St. Louis) 
+business called Phoenix Networks. Of which his brother's firm invested $600,000.
+
+
+Most Memorable Experiences
+-------------------------------------------------------------------------------
+
+Peter: 8 Class A Felony charges
+       1 Class A Misdemeanor charge
+       1 Class B Misdemeanor charge
+
+Tim:   6 Class A Felony charges
+       2 Class B Misdemeanor charges
+
+------------------------------------------------------------------------------
+................................................................................
+................................................................................
+.........................:-====+++++++++++++++++===-:...........................
+..................:-++++=--:--===++++++++++++==---:-==++++=:....................
+..............-+*+=-:-=++***#####################****++=::-=+**=................
+..........:+*+=-:=+**####**+-:..::......:=:..:..:-+**###***+-:-=+*+:............
+.......:=*=---+**###*+-:.:..#:.++-%...:#=+-**=%=....:.:-+*###**+---+*+:.........
+.....-++=--+**###+-...*%+-+-*=.+-.:+..*:..=*++=..-**.......-+###**=--=+*-.......
+...:++=:-+*###*=.:....=%::.=#%=-+:-=..=:=++=+.-***-.=+=+#%=...=*##**+-:=+*-.....
+..=*+-:+**##*+:...=#*+-:+=..%-+-:-*..:+=..::#=:=*+=:....-++-:...-*##**=:-=*+....
+.=*=:-+*###*:.:-+*-.-*%@-+++%--**+*******+:....-%#*=+*%#+=--:::..:+##**=:-=*+...
+:*+-:+*###*....+#*+=++:-#-.....=######*####=......:..=%==***+==+#@**##**=:-+*=..
++*=:=+*###++***+++=**+:.......:*####**######:.......:*#+======+*#+:=*##*+-:=+*:.
+::...:::--:::----------------=##############=:::::::::::............:::::...::..
+.............................-####%%##%%%#*-....................................
+.............................*#####=--=+--......................................
+..............................:-:...............................................
+*I'm not sure this has anything to do with TWCB but someone online is selling
+Wacko Cracko stickers and this is what it looks like in ascii 80 character form 
+LOL.
+https://www.redbubble.com/i/sticker/Wacko-Cracko-by-bashley051003/44557937.JCQM3
+------------------------------------------------------------------------------
+
+Inside Jokes
+~~~~~~~~~~~~
+-Some sources say that we are seeing "Whacko Cracko" syndrome, where the story
+gets more and more bizarre as versions get modified.
+-Captain Crunch of 512 has stated that an auto-dial program that he wrote and
+uploaded was copied by TWCB Inc., who then claimed it as their own and signed
+their name in it.
+-...well it takes 45 minutes to get to the Days Inn and I didn't want to go to 
+the big meeting because of serious LEGAL troubles.
+-While funky titles like guru, assassin and wizard began crowding the middle 
+echelons of org charts in the early '90s, it's primarily in the last couple of 
+years that the top dogs have been infected with titular logorrhea.
+(Newsweek article Oct 01, 2000 about Tim and his CVO title)
+-https://www.youtube.com/watch?v=QNv8m2Gl3Ec
+
+-------------------------------------------------------------------------------

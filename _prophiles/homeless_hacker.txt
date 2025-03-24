@@ -1,0 +1,24 @@
+---
+layout: prophile
+title: Homeless Hacker
+author: Anonymous 
+---
+
+Hacker Adrian Lamo slid the line separating hero from treachery.  Called the "Homeless Hacker," he was well-known for exposing security weaknesses rather than profitably breaking into big companies such Microsoft, Yahoo, and The New York Times.  Although his accomplishments brought him recognition, he became one of the most controversial personalities in hacker history when he decided to notify authorities about Chelsea Manning. .
+
+Lamo, who was born in 1981, worked without a stable residence and self-taught utilizing public libraries and internet cafés to do his hacks.  His hacking technique was unorthodox.  He claimed to identify security flaws that needed addressing, therefore justifying his conduct rather than looking for financial benefit or personal retribution.  But in 2003 his luck ran out when he was prosecuted for unlawfully accessing The New York Times database.  Unlike in earlier cases when he slid under networks silently, this time the FBI noticed.  Lamo turned around his behavior after confessing and receiving a six-month house arrest term with two years of probation.
+
+Lamo took a decision in 2010 that permanently damaged his image. Army intelligence analyst Chelsea Manning contacted him and admitted she had leaked classified U.S. military information to WikiLeaks. Lamo reported Manning to authorities, claiming that the disclosures endanger lives, instead of keeping the chat private. Later on, Manning was captured and given a 35-year jail sentence though this was subsequently changed. Many of the hacker community considered Lamo's actions as an unreserved betrayal. Once valued for his expertise, he was now sharply denounced as a government source.
+
+Lamo, who was well-known, had a quite tranquil existence in his final years and kept distance from the hacking world. Though he stayed a divisive person, he occasionally spoke about ethics and cybersecurity. 2018 saw him deceased at thirty-seven years old. His death's circumstances remained unknown, which added even another level of intrigue to his already convoluted legacy. To some, he was a bright thinker who shaped cybersecurity consciousness; to others, he was a traitor breaking the unspoken hacker code.
+
+Even in death, Adrian Lamo remains one of the most debated figures in cybersecurity history. His story is a reminder of the thin line between ethical hacking and perceived betrayal, a legacy that still sparks discussions about the role of hackers in society.
+
+   ________________________
+   | [~~] USER LOGIN      |
+   |                      |
+   |  Username: Lamo      |
+   |  Password: ********  |
+   |                      |
+   |  Access Granted      |
+   |______________________|

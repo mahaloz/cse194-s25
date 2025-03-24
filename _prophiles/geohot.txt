@@ -1,0 +1,68 @@
+---
+layout: prophile
+title: geohot
+author: Darth Penguin
+---
+
+   _____ ______ ____  _    _  ____ _______ 
+  / ____|  ____/ __ \| |  | |/ __ \__   __|
+ | |  __| |__ | |  | | |__| | |  | | | |   
+ | | |_ |  __|| |  | |  __  | |  | | | |   
+ | |__| | |___| |__| | |  | | |__| | | |   
+  \_____|______\____/|_|  |_|\____/  |_|   
+                                           
+                                           
+
+Handle: geohot
+
+Call Him: George Hotz
+
+Past Handles: million75, mil
+
+Handle Origin: The handle "geohot" is a combination of the first letters of his
+first and last names: "Geo" from George and "Hot" from Hotz.
+
+Date Of Birth: October 2, 1989
+
+Height: unknown
+
+Weight: unknown
+
+Eye Color: Brown
+
+Hair Color: Brown
+
+
+George Hotz, better known by his alias "Geohot," is a hacker, engineer, and
+entrepreneur known for his groundbreaking work in hacking and security. He 
+gained fame in 2007 when he was the first to unlock the Apple iPhone, allowing
+users to run it on unauthorized carriers. This was a major milestone in mobile
+device freedom and had profound effects on the smartphone industry.
+
+Hotz later became known for his work on the PlayStation 3. In 2010, he found a
+way to jailbreak the PS3, granting users access to its hardware and software
+beyond Sony's intended limitations. This led to a major legal battle with Sony,
+which eventually resulted in an out-of-court settlement. His actions sparked
+debates over digital rights, ownership, and security, influencing the broader
+hacking community.
+
+Beyond hacking, Geohot has contributed to artificial intelligence and automotive
+technology. He founded Comma.ai, a startup focused on developing open-source
+self-driving technology. His work has influenced automation and AI-driven car
+modifications, challenging major corporations like Tesla and Google.
+
+Geohot's influence extends to cybersecurity research. His contributions to
+vulnerability discovery and ethical hacking have shaped security practices in
+both academia and industry. His techniques and exploits have been documented on
+platforms like Phrack, an underground hacking journal, and referenced in various
+security discussions.
+
+His impact on art and technology also includes his public persona as an
+outspoken hacker. His presence on social media, interviews, and conferences has
+made hacking more visible and accessible to the public. His unconventional
+approach has inspired many aspiring hackers, engineers, and programmers.
+
+Overall, George Hotz has left a significant mark on history, technology, and
+digital culture. His work has influenced major companies, reshaped discussions
+on user rights, and pushed the boundaries of innovation in various fields.
+

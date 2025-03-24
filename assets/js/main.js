@@ -1,8 +1,11 @@
 (function() {
   const scheduleTab          = document.getElementById('scheduleTab');
   const announcementsTab     = document.getElementById('announcementsTab');
+  const prophilesTab          = document.getElementById('prophilesTab');
   const scheduleContent      = document.getElementById('scheduleContent');
   const announcementsContent = document.getElementById('announcementsContent');
+  const prophilesContent      = document.getElementById('prophilesContent');
+
 
   const popupOverlay = document.getElementById('popupOverlay');
   const closeBtn     = document.getElementById('closeBtn');
@@ -62,22 +65,19 @@
     newBadge.style.display = 'none';
   }
 
-  // Tab switching
-  scheduleTab.addEventListener('click', () => {
-    scheduleTab.classList.add('active');
-    announcementsTab.classList.remove('active');
-    scheduleContent.classList.add('active');
-    announcementsContent.classList.remove('active');
-  });
+  // Tab switching - only handle if we're on the home page
+  if (window.location.pathname === '/') {
+    scheduleTab.addEventListener('click', (e) => {
+      e.preventDefault();
+      scheduleTab.classList.add('active');
+      announcementsTab.classList.remove('active');
+      scheduleContent.classList.add('active');
+      announcementsContent.classList.remove('active');
+    });
+  }
 
-  announcementsTab.addEventListener('click', () => {
-    announcementsTab.classList.add('active');
-    scheduleTab.classList.remove('active');
-    announcementsContent.classList.add('active');
-    scheduleContent.classList.remove('active');
-
-    // Mark announcements as seen
-    markAnnouncementsAsSeen();
+  prophilesTab.addEventListener('click', () => {
+    window.location.href = '/prophiles.html';
   });
 
   // Show popup with the stored HTML

@@ -1,0 +1,82 @@
+---
+layout: prophile
+title: Shooting Shark
+author: Anonymous
+---
+
+      ____
+  ><(((o)))>
+      |__|  
+     //||\\ pew pew  	SHOOTING SHARK: LATE 80S HACKER ICON
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~Introduction~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Shooting Shark, a notable hacker from the late 1980s, gained recognition 
+through his contributions to the hacking community, particularly in Unix 
+systems and telecommunication exploits. His story, detailed in the Phrack 
+Inc. Volume Three, Issue Thirty-Three, offers insight into the early days of 
+computer hacking and the personalities that shaped the underground tech 
+culture. This profile explores the life, hacking career, and legacy of 
+Shooting Shark.
+
+~~~~~~~~~~~~~~~~Early Life and Introduction to Computers~~~~~~~~~~~~~~~~~~~~~~
+
+Born on November 25, 1966, in the San Francisco Bay Area, Shooting Shark's 
+journey into the world of computers began in high school. Enrolled in an 
+Advanced Placement Computer Science course, he learned Pascal programming on 
+the Apple //e, though he found greater enjoyment in software piracy and 
+gaming. His early interest in technology was heavily influenced by the 1983 
+film Wargames(one of my personal favorite movies now), sparking his 
+fascination with hacking.
+
+~~~~~~~~~~~~~~~~~~~~~~~Entry into Hacking~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Shooting Shark's hacking career began with phone phreaking, a common entry 
+point for many early hackers. His mentor, Elric of Imrryr, introduced him to 
+800 extenders—codes that allowed free long-distance calls. With the purchase 
+of a Novation Apple Cat 300 modem, he expanded his capabilities, experimenting
+ with blue boxing and exploring bulletin board systems (BBS) such as Sherwood 
+Forest and OSUNY.
+
+~~~~~~~~~~~~~~Unix Expertise and Phrack Contributions~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In college, Shooting Shark gained access to a Pyramid 90x super mini computer 
+running BSD 4.2 Unix. His knowledge of Unix systems became his signature 
+strength, leading to a series of technical articles published in Phrack and 
+the Legion of Doom Technical Journals. His files, such as Unix Nasties and a 
+brute-force password hacker, influenced a generation of hackers seeking to 
+understand Unix vulnerabilities.
+
+~~~~~~~~~~~~~~~~~~~Encounters with Law Enforcement~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Like many hackers of his era, Shooting Shark caught the attention of law 
+enforcement. In 1987, the FBI contacted him regarding a break-in in San Diego.
+Although he chose to cease illegal activities, the incident marked the end of 
+his more active hacking days.
+
+~~~~~~~~~~~~~~~~~~~~~~~~Life Beyond Hacking~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+After leaving the underground scene, Shooting Shark pursued a degree in 
+Theater Arts, contrasting sharply with his technical background. He later 
+worked in upper management at a video graphics card manufacturer and became 
+involved in computer graphics and MIDI music production. His multifaceted 
+interests showcased the complexity of individuals in the hacking community.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~Legacy~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Shooting Shark's contributions to Phrack and the wider hacking community 
+cemented his place in the annals of hacker history. His Unix tutorials 
+educated aspiring hackers, while his transition to a legitimate career 
+highlighted the diverse paths taken by early computer enthusiasts. Today, 
+his story serves as a testament to the formative years of hacking culture.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Conclusion~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Shooting Shark's journey from high school computer science student to 
+influential hacker exemplifies the curiosity, ingenuity, and ethical dilemmas
+that defined the early hacking scene. His legacy endures through his writings
+and the community he helped shape, reminding us of the profound impact of 
+those who explored the digital frontier.

@@ -9,14 +9,31 @@
   <!-- Main CSS (optional) -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
 
+  <style>
+    .tab {
+      text-decoration: none;
+      color: inherit;
+    }
+    
+    .tab:hover {
+      text-decoration: none;
+      color: inherit;
+    }
+    
+    .tab.active {
+      background-color: #333;
+      color: white;
+    }
+  </style>
+
 </head>
 <body>
 
   <!-- TAB NAV -->
   <div class="tab-container">
-    <div class="tab active" id="scheduleTab">Schedule</div>
-    <div class="tab" id="announcementsTab">Announcements<span class="new-badge" id="newBadge" style="display: none;">NEW</span>
-    </div>
+    <a href="/" class="tab {% if page.url == '/' %}active{% endif %}" id="scheduleTab">Schedule</a>
+    <a href="/announcements.html" class="tab {% if page.url == '/announcements.html' %}active{% endif %}" id="announcementsTab">Announcements<span class="new-badge" id="newBadge" style="display: none;">NEW</span></a>
+    <a href="/prophiles.html" class="tab {% if page.url == '/prophiles.html' %}active{% endif %}" id="prophilesTab">Prophiles</a>
   </div>
 
   <!-- PAGE CONTENT goes here -->

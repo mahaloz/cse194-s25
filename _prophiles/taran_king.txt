@@ -1,0 +1,165 @@
+---
+layout: prophile
+title: Taran King
+author: Krutarth Thakkar
+---
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+                      TARAN KING: THE DIGITAL MONARCH
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Hacker Name   : Taran King
+Presenter     : Krutarth Thakkar
+References    : - Phrack Issue 20/2 (http://phrack.org/issues/20/2.html)
+
+                      _..._
+                     /MMMMM\
+                    (I8H#H8I)
+                    (I8H#H8I)
+                     \WWWWW/
+                      I._.I
+                      I._.I
+                      I._.I
+                      I._.I
+                      I._.I
+                      I._.I
+                      I._.I
+                      I.,.I
+                     / /#\ \
+                   .dH# # #Hb.
+               _.~d#XXP I 7XX#b~,_
+            _.dXV^XP^ Y X Y ^7X^VXb._
+           /AP^   \PY   Y   Y7/   ^VA\
+          /8/      \PP  I  77/      \8\
+         /J/        IV     VI        \L\
+         L|         |  \ /  |         |J
+         V          |  | |  |          V
+                    |  | |  |
+                    |  | |  |
+                    |  | |  |
+                    |  | |  |
+ _                  |  | |  |                  _
+( \                 |  | |  |                 / )
+ \ \                |  | |  |                / /
+('\ \               |  | |  |               / /`)
+ \ \ \              |  | |  |              / / /
+('\ \ \             |  | |  |             / / /`)
+ \ \ \ )            |  | |  |            ( / / /
+('\ \( )            |  | |  |            ( )/ /`)
+ \ \ ( |            |  | |  |            | ) / /
+  \ \( |            |  | |  |            | )/ /
+   \ ( |            |  | |  |            | ) /
+    \( |            |   Y   |            | )/
+     | |            |   |   |            | |
+     J | ___...~~--'|   |   |`--~~...___ | L
+     >-+<...___     |   |   |     ___...>+-<
+    /     __   `--~.L___L___J.~--'   __     \
+    K    /  ` --.     d===b     .-- '  \    H
+    \_._/        \   // I \\   /        \_._/
+      `--~.._     \__\\ I //__/     _..~--'
+             `--~~..____ ____..~~--'
+                    |   T   |
+                    |   |   |
+                    |   |   |
+                    |   |   |
+                    |   |   |
+                    |   |   |
+                    |   |   |
+                    |   |   |
+                    |   |   |
+                    |   |   |
+                    |   |   |
+                    |   |   |
+                    |   |   |
+                    I   '   I
+                     \     /
+                      \   /
+                       \ /
+----------------------------------------------------------------------
+INTRODUCTION:
+----------------------------------------------------------------------
+Taran King emerged from the underground digital frontier as one of the 
+pioneers of early hacking culture. Shrouded in mystery and renowned for 
+his inventive exploits, Taran King quickly became a legendary figure in 
+the hacker community. His work, as chronicled in Phrack Issue 20/2, 
+demonstrates an uncanny ability to explore and challenge computer systems, 
+transforming the act of hacking into both a technical challenge and a 
+form of art. From his early days experimenting with network vulnerabilities 
+to becoming a symbol of rebellion against the growing control of digital 
+infrastructure, Taran King’s journey captures the essence of the cyber 
+renaissance. His influence was not merely about breaching systems but 
+about questioning the very nature of security and authority in an 
+increasingly connected world.
+
+----------------------------------------------------------------------
+EFFECTS ON HISTORY:
+----------------------------------------------------------------------
+Taran King's exploits contributed to a paradigm shift in the perception 
+of cybersecurity. At a time when computer systems were assumed infallible, 
+his actions exposed vulnerabilities that led to a broader awareness 
+regarding digital defense. Institutions and governments began re-evaluating 
+their security measures, spurred by the audacity of hackers like Taran King. 
+His legacy endures as a reminder that the quest for knowledge can disrupt 
+established orders, prompting reforms that have shaped modern cyber 
+law and digital rights debates.
+
+----------------------------------------------------------------------
+EFFECTS ON TECHNOLOGY:
+----------------------------------------------------------------------
+The innovative methods employed by Taran King had far-reaching effects on 
+the field of technology. By revealing security flaws and crafting 
+unconventional exploits, he spurred advancements in both offensive and 
+defensive cybersecurity techniques. His work encouraged the development 
+of more robust encryption methods and the evolution of intrusion detection 
+systems. Taran King's creative approach has inspired a generation of 
+hackers and technologists who see coding and system exploration as an art 
+form merging technical precision with imaginative problem solving.
+
+----------------------------------------------------------------------
+EFFECTS ON ART:
+----------------------------------------------------------------------
+Beyond technology and history, Taran King influenced digital art and 
+culture. His exploits are celebrated not only for their technical merit 
+but also for their rebellious aesthetic. The blending of computer code 
+with artistic expression underlines a core philosophy: that technology 
+can be both utilitarian and profoundly beautiful. This duality has left 
+an enduring mark on cyber art, where the elegance of code is celebrated 
+as a modern form of creative expression.
+
+----------------------------------------------------------------------
+ASCII ART:
+----------------------------------------------------------------------
+
+                                    o
+                                   $""$o
+                                  $"  $$
+                                   $$$$
+                                   o "$o
+                                  o"  "$
+             oo"$$$"  oo$"$ooo   o$    "$    ooo"$oo  $$$"o
+o o o o    oo"  o"      "o    $$o$"     o o$""  o$      "$  "oo   o o o o
+"$o   ""$$$"   $$         $      "   o   ""    o"         $   "o$$"    o$$
+  ""o       o  $          $"       $$$$$       o          $  ooo     o""
+     "o   $$$$o $o       o$        $$$$$"       $o        " $$$$   o"
+      ""o $$$$o  oo o  o$"         $$$$$"        "o o o o"  "$$$  $
+        "" "$"     """""            ""$"            """      """ "
+         "oooooooooooooooooooooooooooooooooooooooooooooooooooooo$
+          "$$$$"$$$$" $$$$$$$"$$$$$$ " "$$$$$"$$$$$$"  $$$""$$$$
+           $$$oo$$$$   $$$$$$o$$$$$$o" $$$$$$$$$$$$$$ o$$$$o$$$"
+           $"""""""""""""""""""""""""""""""""""""""""""""""""""$
+           $"          T A R A N    K I N G !!                "$
+           $"$"$"$"$"$"$"$"$"$"$"$"$"$"$"$"$"$"$"$"$"$"$"$"$"$"$
+----------------------------------------------------------------------
+CONCLUSION:
+----------------------------------------------------------------------
+Taran King's story is a testament to the transformative power of curiosity 
+and innovation. His impact on history, technology, and art continues to 
+inspire those who challenge boundaries and reimagine the digital realm. 
+The legacy of Taran King serves as a beacon for future generations of 
+hackers and creators who see the cyber world as a canvas for both revolution 
+and artistry.
+
+----------------------------------------------------------------------
+[End of E-Zine]                            
+                                           Krutarth Thakkar
+                                           %%%%%%%%%%%%%%%%

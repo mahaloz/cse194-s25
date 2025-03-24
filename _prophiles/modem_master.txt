@@ -1,0 +1,80 @@
+---
+layout: prophile
+title: Modem Master
+author: Anonymous
+---
+
+Modem Master, a.k.a. Napoleon Solo
+Est. 1988
+Found the hard ascii art here: https://www.asciiart.eu/people/famous/napoleon
+
+
+
+               ____________
+              |            |
+              |   Damn...  |
+              |____________|
+                  /
+     _.-----._
+   _'    '    '_
+  '_____________'
+      | +_+ |
+  ==--'_D__,'---==.
+ /    > \_/ <     |
+/  >__\o_| o/     |
+|      | |_/    , |
+\,_____/_)  o   | |
+   |   o '  o   | |
+   |   o |  o   |_/|
+   '   o |  o   '  |
+   |   o |  o   |_/
+   |   o |  o   |))
+   |     |      |
+   |     \      |
+   |___o/ \_____|
+     |   |   |
+   __)  >|<  (__
+  (____,_|_,____)  
+
+
+Napoleon Solo, aka Modem Master, was a true old-school 
+phreaker from the early days of hacking. His journey kicked 
+off in 1983 when he got his hands on a 300 baud Networker 
+modem and started dialing into the tiny but thriving BBS 
+scene. Eager to learn, he connected with 
+the right people—most notably Simon Templar—who handed him 
+his first 800-number code and pointed him toward legendary 
+boards like IC's Socket, AT&T Phone Center, and Sherwood 
+Forest.
+
+From there, Solo took off, diving deep into exchange 
+scanning, sniffing out PBXes, and even stumbling upon a 
+hidden Sprint indial. The real game-changer, though, was 
+Beandial, a Diversi-Dial system packed with top-tier phreaks. 
+That’s where he built solid connections with 
+names like Lord Kahz and even got a personal invite to King 
+Blotto’s board—definitely a badge of honor back in the day.
+
+Despite being all-in on the phreaking scene, Solo eventually 
+got fed up with the wave of clueless kids who thought knowing 
+a few codes made them elite. He stepped away for a while, but 
+Taran King and Knight Lightning pulled him back in, proving 
+that true phreaking wasn’t 
+dead yet.
+
+Outside of hacking, Solo was just a regular dude—grinding 
+through computer engineering at North Dakota State while 
+flipping burgers at McDonald’s. He had strong opinions, 
+especially about credit card fraud, which he saw as lame and 
+damaging to the real hacking community.
+
+Napoleon Solo represents the essence of classic phreaking: 
+curiosity, skill, and a passion for pushing tech to its 
+limits. His story is a reminder of the days when hacking 
+wasn’t about clout—it was about knowledge, connection, and a 
+whole lot of late-night phone calls.
+
+Unfortunately, there were not too many references to this guy 
+outside of the main Phrack prophile. But I liked his name and 
+thought he had a funny personality, so I decided to write on 
+him anyways.
