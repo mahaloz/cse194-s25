@@ -1,5 +1,5 @@
 ---
-layout: profile
+layout: prophile
 title: The Wacko Cracko Brothers
 author: hUsh.xx
 ---

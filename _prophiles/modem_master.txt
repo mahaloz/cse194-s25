@@ -1,5 +1,5 @@
 ---
-layout: profile
+layout: prophile
 title: Modem Master
 author: Anonymous
 ---
@@ -75,6 +75,6 @@ wasn’t about clout—it was about knowledge, connection, and a
 whole lot of late-night phone calls.
 
 Unfortunately, there were not too many references to this guy 
-outside of the main Phrack profile. But I liked his name and 
+outside of the main Phrack prophile. But I liked his name and 
 thought he had a funny personality, so I decided to write on 
 him anyways.

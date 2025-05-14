@@ -1,5 +1,5 @@
 ---
-layout: profile
+layout: prophile
 title: Captain Crunch
 author: 0urobor0s
 ---

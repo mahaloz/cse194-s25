@@ -1,5 +1,5 @@
 ---
-layout: profile
+layout: prophile
 title: Crimson Death
 author: Anonymous
 ---

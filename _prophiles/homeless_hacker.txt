@@ -1,5 +1,5 @@
 ---
-layout: profile
+layout: prophile
 title: Homeless Hacker
 author: Anonymous 
 ---
