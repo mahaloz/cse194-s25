@@ -1,5 +1,5 @@
 ---
-layout: prophile
+layout: profile
 title: soupNazi
 author: Anonymous
 ---

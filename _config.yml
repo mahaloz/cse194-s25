@@ -4,6 +4,6 @@ markdown: kramdown
 future: true
 
 collections:
-  prophiles:
+  profiles:
     output: true
-    permalink: /prophiles/:title/
+    permalink: /profiles/:title/

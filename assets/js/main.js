@@ -1,10 +1,10 @@
 (function() {
   const scheduleTab          = document.getElementById('scheduleTab');
   const announcementsTab     = document.getElementById('announcementsTab');
-  const prophilesTab          = document.getElementById('prophilesTab');
+  const profilesTab          = document.getElementById('profilesTab');
   const scheduleContent      = document.getElementById('scheduleContent');
   const announcementsContent = document.getElementById('announcementsContent');
-  const prophilesContent      = document.getElementById('prophilesContent');
+  const profilesContent      = document.getElementById('profilesContent');
 
 
   const popupOverlay = document.getElementById('popupOverlay');
@@ -76,8 +76,8 @@
     });
   }
 
-  prophilesTab.addEventListener('click', () => {
-    window.location.href = '/prophiles.html';
+  profilesTab.addEventListener('click', () => {
+    window.location.href = '/profiles.html';
   });
 
   // Show popup with the stored HTML

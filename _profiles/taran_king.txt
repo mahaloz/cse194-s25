@@ -1,5 +1,5 @@
 ---
-layout: prophile
+layout: profile
 title: Taran King
 author: Krutarth Thakkar
 ---

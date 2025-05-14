@@ -1,5 +1,5 @@
 ---
-layout: prophile
+layout: profile
 title: Empress
 author: Katie Kitsting
 ---
@@ -13,7 +13,7 @@ author: Katie Kitsting
         /  /___  /  /|_/ / /  /    / /| |  /  /___  ____/  / ____/  /
        /______/ /__/  /_/ /__/    /_/ |_/ /______/ /______/ /______/
 
-                                  PROPHILE
+                                  profile
  
                          Written by: Katie Kitsting
 

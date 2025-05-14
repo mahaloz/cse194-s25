@@ -10,15 +10,15 @@
   <div class="tab-container">
     <a href="/" class="tab {% if page.url == '/' %}active{% endif %}" id="scheduleTab">Schedule</a>
     <a href="/announcements.html" class="tab {% if page.url == '/announcements.html' %}active{% endif %}" id="announcementsTab">Announcements<span class="new-badge" id="newBadge" style="display: none;">NEW</span></a>
-    <a href="/prophiles.html" class="tab {% if page.url == '/prophiles.html' %}active{% endif %}" id="prophilesTab">Prophiles</a>
+    <a href="/profiles.html" class="tab {% if page.url == '/profiles.html' %}active{% endif %}" id="profilesTab">profiles</a>
   </div>
 
-  <div class="prophile-container">
-    <div class="prophile-header">
+  <div class="profile-container">
+    <div class="profile-header">
       <h1>{{ page.title }}</h1>
-      <div class="prophile-author">by {{ page.author }}</div>
+      <div class="profile-author">by {{ page.author }}</div>
     </div>
-    <pre class="prophile-content">{{ content }}</pre>
+    <pre class="profile-content">{{ content }}</pre>
   </div>
 
   <style>
@@ -37,29 +37,29 @@
       color: white;
     }
 
-    .prophile-container {
+    .profile-container {
       max-width: 800px;
       margin: 0 auto;
       padding: 2rem;
     }
 
-    .prophile-header {
+    .profile-header {
       margin-bottom: 3rem;
       text-align: left;
     }
 
-    .prophile-header h1 {
+    .profile-header h1 {
       font-family: monospace;
       margin-bottom: 0.5rem;
     }
 
-    .prophile-author {
+    .profile-author {
       color: #888;
       font-family: monospace;
       font-size: 1.1em;
     }
 
-    .prophile-content {
+    .profile-content {
       font-family: monospace;
       white-space: pre-wrap;
       margin: 0;

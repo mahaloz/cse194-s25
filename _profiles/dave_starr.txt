@@ -1,5 +1,5 @@
 ---
-layout: prophile
+layout: profile
 title: Dave Starr 
 author: Moonlight
 ---

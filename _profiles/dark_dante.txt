@@ -1,5 +1,5 @@
 ---
-layout: prophile
+layout: profile
 title: Dark Dante
 author: floralis
 ---
@@ -7,7 +7,7 @@ author: floralis
 <<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>
 
 
-			     ~~ Hacker Prophile ~~
+			     ~~ Hacker profile ~~
 
 			       Version 1, Issue 1 
 
@@ -21,8 +21,8 @@ author: floralis
 
 
 
-	Welcome to Hacker Prophiles. Hacker Prophiles was created for one singular
-purpose - to make prophiles for hackers for you, CSE 194. This issue, 
+	Welcome to Hacker profiles. Hacker profiles was created for one singular
+purpose - to make profiles for hackers for you, CSE 194. This issue, 
 I, floralis, bring you a user who has an extensive and compelling history in
 the realm of hacking.
 
@@ -142,7 +142,7 @@ and sources, to the Freedom of Press Foundation.
 
 	In October 2006, Poulsen released information detailing his successful 
 search for registered sex offenders using MySpace to solicit sex from children. 
-His work identified 744 registered people with MySpace prophiles and led to the
+His work identified 744 registered people with MySpace profiles and led to the
 arrest of one, Andrew Lubrano.
 
 	He was featured on NBC's Unsolved Mysteries, the show's 1-800 telephone 

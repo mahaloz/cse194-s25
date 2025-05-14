@@ -1,32 +1,32 @@
 ---
 layout: default
-title: Prophiles
+title: profiles
 ---
 
-<div class="prophiles-container">
-  <h1>Prophiles</h1>
-  <div class="prophiles-list">
-    {% for prophile in site.prophiles %}
-    <div class="prophile-item">
-      <a href="{{ prophile.url }}" class="prophile-title">{{ prophile.title }}</a>
-      <span class="prophile-author">{{ prophile.author }}</span>
+<div class="profiles-container">
+  <h1>profiles</h1>
+  <div class="profiles-list">
+    {% for profile in site.profiles %}
+    <div class="profile-item">
+      <a href="{{ profile.url }}" class="profile-title">{{ profile.title }}</a>
+      <span class="profile-author">{{ profile.author }}</span>
     </div>
     {% endfor %}
   </div>
 </div>
 
 <style>
-.prophiles-container {
+.profiles-container {
   max-width: 800px;
   margin: 0 auto;
   padding: 2rem;
 }
 
-.prophiles-list {
+.profiles-list {
   margin-top: 2rem;
 }
 
-.prophile-item {
+.profile-item {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -34,18 +34,18 @@ title: Prophiles
   border-bottom: 1px solid #333;
 }
 
-.prophile-title {
+.profile-title {
   color: #00ff00;
   text-decoration: none;
   font-family: monospace;
   font-size: 1.1em;
 }
 
-.prophile-title:hover {
+.profile-title:hover {
   text-decoration: underline;
 }
 
-.prophile-author {
+.profile-author {
   color: #888;
   font-family: monospace;
   font-size: 0.9em;
