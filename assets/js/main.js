@@ -27,28 +27,32 @@
   function markCurrentAndPastClasses() {
     const now = new Date();
     document.querySelectorAll('.date-block').forEach(block => {
-      const dateStr = block.getAttribute('data-date');
-      const classDate = parseClassDate(dateStr);
-      if (!classDate) return;
+      // The below is commented because we no longer want to gray out old classes. 
+      // If this code is used again in the future, just uncomment and delete the last line.
+      // 
+      //const dateStr = block.getAttribute('data-date');
+      //const classDate = parseClassDate(dateStr);
+      //if (!classDate) return;
 
-      // Sunday before
-      const sundayBefore = new Date(classDate);
-      sundayBefore.setDate( sundayBefore.getDate() - sundayBefore.getDay() );
+      //// Sunday before
+      //const sundayBefore = new Date(classDate);
+      //sundayBefore.setDate( sundayBefore.getDate() - sundayBefore.getDay() );
 
-      // Sunday after
-      const sundayAfter = new Date(classDate);
-      sundayAfter.setDate( sundayAfter.getDate() + (7 - sundayAfter.getDay()) );
+      //// Sunday after
+      //const sundayAfter = new Date(classDate);
+      //sundayAfter.setDate( sundayAfter.getDate() + (7 - sundayAfter.getDay()) );
 
-      // If now is between sundayBefore and sundayAfter => current week
-      if (now >= sundayBefore && now <= sundayAfter) {
-        block.classList.add('current-week');
-      }
+      //// If now is between sundayBefore and sundayAfter => current week
+      //if (now >= sundayBefore && now <= sundayAfter) {
+      //  block.classList.add('current-week');
+      //}
 
-      // If 7 days past
-      const msDiff = now - classDate;
-      if (msDiff >= 7 * 24 * 60 * 60 * 1000) {
-        block.classList.add('past-class');
-      }
+      //// If 7 days past
+      //const msDiff = now - classDate;
+      //if (msDiff >= 7 * 24 * 60 * 60 * 1000) {
+      //  block.classList.add('past-class');
+      //}
+      block.classList.add('currentWeek');
     });
   }
 

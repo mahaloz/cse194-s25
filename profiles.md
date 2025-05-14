@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Prophiles
+title: Profiles
 ---
 
 <div class="prophiles-container">
-  <h1>Prophiles</h1>
+  <h1>Profiles</h1>
   <div class="prophiles-list">
     {% for prophile in site.prophiles %}
     <div class="prophile-item">
